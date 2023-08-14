@@ -1,7 +1,0 @@
----
-title: "day1-session1"
-format: html
-editor: visual
----
-
-## 
